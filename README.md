@@ -30,7 +30,7 @@ The project also covers **Agile Project Management** practices such as Scrum, Ka
 
 
 ## 🔗 Video Link
-🎬 [Watch the Video Presentation](<https://docs.google.com/presentation/d/1yRk1Uj6yHSYt9ARsSpFOp1p2O7bCTI8-/edit?usp=sharing&ouid=118321446116803551334&rtpof=true&sd=true>)  
+🎬 [Watch the Video Presentation](<https://drive.google.com/file/d/11BvnVw_k4n2qO1RkeR_ASNpv_ZzWvXTu/view?usp=sharing>)  
 *(Uploaded for SEPM Stage 2 – Self Learning Activity)*
 
 ---
